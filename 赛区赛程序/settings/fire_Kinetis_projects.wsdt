@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>fire_uart_send_demo/Debug</Project><Project>fire_demo/Debug</Project><Project>fire_gpio_demo/Debug</Project><Project>fire_uart_loop_demo/Debug</Project><Project>fire_led_demo/Debug</Project><Project>fire_pwm_demo/Debug</Project><Project>fire_i2c_demo/Debug</Project><Project>fire_Input_demo/Debug</Project><Project>fire_ucos_led_demo/Debug</Project><Project>fire_pit_demo/Debug</Project><Project>fire_uart_int_demo/Debug</Project><Project>fire_PWM_Input_PIT_demo/Debug</Project><Project>fire_adc_demo/Debug</Project><Project>fire_lptmr_demo/Debug</Project><Project>fire_exti_demo/Debug</Project></CurrentConfigs><CurrentProj>fire_uart_send_demo</CurrentProj><OverviewSelected>1</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>318</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build><TerminalIO/><Debug-Log><ColumnWidth0>51</ColumnWidth0><ColumnWidth1>1259</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-7049-19177</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws&gt;</ExpandedNode><ExpandedNode>fire_adc_demo</ExpandedNode><ExpandedNode>fire_demo</ExpandedNode><ExpandedNode>fire_gpio_demo</ExpandedNode><ExpandedNode>fire_led_demo</ExpandedNode><ExpandedNode>fire_led_demo/app</ExpandedNode><ExpandedNode>fire_uart_send_demo</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-27302-22241</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-19144-12551</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\lptmr\lptmr.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>396</SelStart><SelEnd>396</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\FTM\FTM.c</Filename><XPos>0</XPos><YPos>96</YPos><SelStart>1561</SelStart><SelEnd>1561</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\i2c\i2c.c</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>1401</SelStart><SelEnd>1401</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\uart\uart.c</Filename><XPos>0</XPos><YPos>66</YPos><SelStart>434</SelStart><SelEnd>434</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\adc\adc.c</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>759</SelStart><SelEnd>760</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\projects\fire_led_demo\main.c</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>983</SelStart><SelEnd>983</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\LED\LED.H</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>362</SelStart><SelEnd>362</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\projects\fire_adc_demo\main.c</Filename><XPos>0</XPos><YPos>60</YPos><SelStart>2012</SelStart><SelEnd>2012</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\common\printf.c</Filename><XPos>0</XPos><YPos>577</YPos><SelStart>15661</SelStart><SelEnd>15661</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\cpu\sysinit.c</Filename><XPos>0</XPos><YPos>48</YPos><SelStart>1748</SelStart><SelEnd>1748</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\platforms\k60_fire.h</Filename><XPos>0</XPos><YPos>14</YPos><SelStart>748</SelStart><SelEnd>748</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\uart\uart.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>156</SelStart><SelEnd>156</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\cpu\crt0.s</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>307</SelStart><SelEnd>307</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\projects\fire_uart_send_demo\main.c</Filename><XPos>0</XPos><YPos>57</YPos><SelStart>2272</SelStart><SelEnd>2414</SelEnd></Tab><ActiveTab>13</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0147a288><key>iaridepm.enu1</key></Toolbar-0147a288></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>560</Bottom><Right>392</Right><x>-2</x><y>-2</y><xscreen>269</xscreen><yscreen>285</yscreen><sizeHorzCX>196925</sizeHorzCX><sizeHorzCY>414244</sizeHorzCY><sizeVertCX>288433</sizeVertCX><sizeVertCY>816860</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>83</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>85</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>123547</sizeHorzCY><sizeVertCX>196925</sizeVertCX><sizeVertCY>414244</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
